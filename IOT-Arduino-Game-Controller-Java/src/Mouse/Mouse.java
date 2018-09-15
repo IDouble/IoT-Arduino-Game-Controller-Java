@@ -16,6 +16,7 @@ import java.awt.event.InputEvent;
 import java.util.Random;
 
 public class Mouse {
+	
 	static GraphicsDevice gd = GraphicsEnvironment.getLocalGraphicsEnvironment().getDefaultScreenDevice(); // Get Screen Height & Width
     public static final int MAX_Y = gd.getDisplayMode().getHeight(); // Gets the Monitor Height & Width (Works with multiple Monitors)
     public static final int MAX_X = gd.getDisplayMode().getWidth();

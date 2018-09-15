@@ -6,6 +6,7 @@ import org.sintef.jarduino.*;
 import Mouse.Mouse;
 
 public class Arduino extends JArduino {
+	
 	//Constructor taking a String describing the serial port where the Arduino Board is connected (eg, "COM7")
 	public Arduino(String port) {
 	   super(port);

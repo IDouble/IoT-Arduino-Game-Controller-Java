@@ -1,4 +1,4 @@
-# 🎮 IOT Arduino Game Controller Java ☕️
+# 🎮 IoT Arduino Game Controller Java ☕️
 🎮 A **Game controller** realized with an **Arduino**, I modified the **Arduino** bootloader to program with **Java** ☕️
 
 Don't get me wrong, I can easily program this in standard C too, but I like the aspects of **OOP (object-oriented programming)**. 
@@ -10,13 +10,13 @@ In this project I used my own written **Java** Classes ([**Mouse**](https://gith
 
 ## ⚙️ Concept ⚙️
 
-![IOT Arduino Game Controller Java Circuit Diagram](Images/Arduino-Circuit-Diagram.png)
+![IoT Arduino Game Controller Java Circuit Diagram](Images/Arduino-Circuit-Diagram.png)
 
 
 ## 🖼 Images 🖼
 
-![IOT Arduino Game Controller Java](Images/Arduino_3.jpg)
-![IOT Arduino Game Controller Java](Images/Arduino_4.jpg)
+![IoT Arduino Game Controller Java](Images/Arduino_3.jpg)
+![IoT Arduino Game Controller Java](Images/Arduino_4.jpg)
 
 ## 📝 Notes 📝
 

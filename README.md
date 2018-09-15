@@ -4,7 +4,9 @@
 Don't get me wrong, I can easily program this in standard C too, but I like the aspects of **OOP (object-oriented programming)**. 
 That's the reason why I mostly prefer **Java** / C++ over ANSI C.
 
-**JArduino** was used in this project to communicate with the Pins (GPIO) of the Arduino.
+([**JArduino**](https://github.com/SINTEF-9012/JArduino)) was used in this project to communicate with the Pins (GPIO) of the **Arduino**.
+
+In this project I used my own written **Java** Classes ([**Mouse**](https://github.com/AYIDouble/Mouse)) and ([**Keyboard**](https://github.com/AYIDouble/Keyboard)) to send signals to the Mouse and the Keyboard, when buttons on the **Game Controller** are being pressed.
 
 ## ⚙️ Concept ⚙️
 
@@ -22,4 +24,4 @@ That's the reason why I mostly prefer **Java** / C++ over ANSI C.
 
 - Digital means 1 or 0
 - Analog means a number between 0 ... 255
-- The Output of Arduino is 40 Milliampere (mA)
+- The Output of the Arduino is 40 Milliampere (mA)

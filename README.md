@@ -25,3 +25,7 @@ In this project I used my own written **Java** Classes ([**Mouse**](https://gith
 - **Digital** means **0 or 1 (1-Bit)**
 - **Analog** means a number between **0 ... 255 (8-Bit)**
 - The **Output** of the Arduino is **40 Milliampere (mA)**
+
+### 📝 Cheatsheet 📝
+
+![IoT Arduino Cheatsheet Game Controller Java](Images/Arduino_Cheatsheet.png)
